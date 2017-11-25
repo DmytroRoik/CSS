@@ -1,0 +1,39 @@
+body{
+	background-color: #638a79;
+	background-image: url("img/body-bg.png");
+	background-repeat: repeat-x;
+	background-position: fixed;
+	font-size: 13px;
+	line-height: 18px;
+	color: #333;
+	font-family: 'Arial',sans-serif;
+}
+
+.content {
+	width: 840px;
+	padding: 20px 30px;
+	background-color: #fff;
+	margin: 100px auto 0;
+}
+.content .content-top {
+	height: 12px;
+	background-image: url(img/content-bg.png);
+	background-position: 0 0;
+}
+.content .content-bottom {
+	height: 12px;
+	background-image: url(img/content-bg.png);
+	background-position: 0 -840px;
+	
+}
+.content .content-middle {}
+
+h1 { }
+h2 { }
+
+div.block-1 {}
+div.block-2 {}
+
+a.button {}
+a.button:hover {}
+a.button:active {}
